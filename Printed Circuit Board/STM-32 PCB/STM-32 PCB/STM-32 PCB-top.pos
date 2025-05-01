@@ -1,0 +1,37 @@
+### Footprint positions - created on Wed 19 Mar 2025 12:12:34 AM PDT ###
+### Printed by KiCad version 7.0.11+dfsg-1build4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                      Package                                                            PosX       PosY       Rot  Side
+C1        10u                      C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                    172.9950  -100.1900  -90.0000  top
+C2        100n                     C_0603_1608Metric                                              168.7950   -99.6000  -90.0000  top
+C3        100n                     C_0603_1608Metric                                              169.4200   -93.9500    0.0000  top
+C4        10u                      C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                    157.4175   -66.0500    0.0000  top
+C5        100n                     C_0603_1608Metric                                              158.2100   -63.2900    0.0000  top
+C6        100u                     50YXJ100MT78X11.5                                               90.7500   -60.8000   90.0000  top
+C7        10u                      C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                    133.5275   -65.8500    0.0000  top
+C8        100n                     C_0603_1608Metric                                              134.3000   -63.0900    0.0000  top
+C9        100u                     50YXJ100MT78X11.5                                              116.3500   -60.8000   90.0000  top
+C10       10u                      C_1206_3216Metric_Pad1.33x1.80mm_HandSolder                    107.5500   -66.0200    0.0000  top
+C11       100n                     C_0603_1608Metric                                              108.3400   -63.1900    0.0000  top
+C12       100u                     50YXJ100MT78X11.5                                              140.6500   -60.8000   90.0000  top
+D1        LED                      LED_1206_3216Metric                                            145.9950   -92.4000    0.0000  top
+J0        Barrel_Jack_MountingPin  BarrelJack_Horizontal                                          192.0000   -59.2350  -90.0000  top
+J1        Conn_01x03_Pin           FanPinHeader_1x03_P2.54mm_Vertical                             199.4000   -71.9600  -90.0000  top
+J2        ST-LINK_HEADER           PinHeader_1x04_P2.54mm_Vertical                                153.4800  -110.7500   90.0000  top
+J3        UART_HEADER              PinHeader_1x04_P2.54mm_Vertical                                178.9500  -110.7500   90.0000  top
+J4        M3_HEADER                PinHeader_1x04_P2.54mm_Vertical                                 96.4200   -48.9500   90.0000  top
+J5        M2_HEADER                PinHeader_1x04_P2.54mm_Vertical                                121.9300   -48.9100   90.0000  top
+J6        M1_HEADER                PinHeader_1x04_P2.54mm_Vertical                                146.3000   -48.9100   90.0000  top
+J7        Screw_Terminal_01x02     TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal   112.3000   -50.2500  180.0000  top
+J8        Screw_Terminal_01x02     TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal   137.7200   -50.3000  180.0000  top
+J9        Screw_Terminal_01x02     TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal   162.0700   -50.2500  180.0000  top
+R1        470                      R_0603_1608Metric                                              151.4950   -92.4000    0.0000  top
+SW1       500SSP1S2M2QEA           SW_500SSP1S1M6QEA                                              175.9950   -51.6000    0.0000  top
+U1        STM32C071KBT3            QFP80P900X900X160-32N                                          160.2000   -96.8500  180.0000  top
+U2        TMC2209_STEPSTICK        TMC-2209_Stepstick                                             100.2300   -75.6500   90.0000  top
+U3        TMC2209_STEPSTICK        TMC-2209_Stepstick                                             125.7400   -75.6500   90.0000  top
+U4        TMC2209_STEPSTICK        TMC-2209_Stepstick                                             150.1100   -75.6500   90.0000  top
+U5        MINI-560_DC-DC           MINI-560                                                       178.5500   -74.3700  180.0000  top
+X1        ECS-2520MV-xxx-xx        Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm                168.3950  -104.1500  -90.0000  top
+## End

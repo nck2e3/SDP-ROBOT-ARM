@@ -1,0 +1,8 @@
+../Core/Src/tmc2209.c:12:6:stepper_init	24	static
+../Core/Src/tmc2209.c:50:6:stepper_configure_steps	16	static
+../Core/Src/tmc2209.c:77:6:stepper_enable	16	static
+../Core/Src/tmc2209.c:84:6:stepper_disable	16	static
+../Core/Src/tmc2209.c:90:6:delay_us	16	static
+../Core/Src/tmc2209.c:96:6:stepper_move	32	static
+../Core/Src/tmc2209.c:122:6:stepper_process_command	88	static
+../Core/Src/tmc2209.c:189:6:stepper_home	40	static
