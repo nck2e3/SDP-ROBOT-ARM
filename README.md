@@ -20,5 +20,7 @@ This repository documents a Senior Design Project (SDP) centered around a roboti
 
 ## Acknowledgments
 
-Mechanical design elements, including all CAD files, originate from the [community_robot_arm](https://github.com/20sffactory/community_robot_arm) repository. Our team is responsible for all custom firmware, hardware integration, and project-specific enhancements built on top of the original mechanical framework.
+This project was developed by **Junhee Lee** and **Noah King** as part of their Senior Design Project. All firmware, hardware integration, and system-level enhancements were designed and implemented by the team.
+
+Mechanical design elements, including all CAD files, originate from the [community_robot_arm](https://github.com/20sffactory/community_robot_arm) repository. These files were used unmodified and served as the foundation for the custom developments described in this repository.
 
