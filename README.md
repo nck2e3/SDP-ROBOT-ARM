@@ -15,9 +15,7 @@ This repository documents a Senior Design Project (SDP) centered around a roboti
 
 ## Key Features
 
-- Modular firmware with multi-threaded processing pipelines
-- Optimized motor driver logic with encoder feedback
-- Power management system for actuator efficiency
+- Custom PCB design utilizing TMC-2209 motor drivers and an STM-32 microcontroller
 - Face detection and tracking via external vision processing pipeline
 
 ## Acknowledgments
