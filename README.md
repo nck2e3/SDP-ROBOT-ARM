@@ -8,15 +8,15 @@ This repository documents a Senior Design Project (SDP) centered around a roboti
 
 | Schematic                        |
 |----------------------------------|
-| ![](Images/schematic.svg)       |
+| ![](Docs/Images/schematic.svg)       |
 
 | PCB Photo                        |
 |----------------------------------|
-| ![](Images/pcb_photo.jpg)       |
+| ![](Docs/Images/pcb_photo.jpg)       |
 
 | Custom Housing                   | Entire Assembly                  |
 |----------------------------------|----------------------------------|
-| ![](Images/custom_case.png)     | ![](Images/assembly.jpg)         |
+| ![](Docs/Images/custom_case.png)     | ![](Docs/Images/assembly.jpg)         |
 
 ## Repository Structure
 
