@@ -1,4 +1,4 @@
-# Face-Tracking Robotic Arm
+# Face Tracking Robotic Arm
 
 ## Overview
 
