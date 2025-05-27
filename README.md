@@ -2,11 +2,16 @@
 
 ## Overview
 
-![Diagram](Images/schematic.svg)
-
 This repository documents a Senior Design Project (SDP) centered around a robotic arm system. The project features **custom-developed firmware and hardware**, built to extend and optimize the functionality of an existing mechanical design.
 
-> ⚠️ **Note:** The **mechanical CAD files** used in this project are **from the original forked repository** [community_robot_arm](https://github.com/20sffactory/community_robot_arm) and have not been modified. All hardware and firmware enhancements are original to this implementation.
+> ⚠️ Note: The mechanical CAD files—except for our custom-modeled housing—are sourced directly from the original forked repository, community_robot_arm, and remain unmodified. All hardware and firmware in this repository are original to this project.
+
+
+![Diagram](Images/schematic.svg)
+| Custom Housing                   | Entire Assembly                  |
+|----------------------------------|----------------------------------|
+| ![](Images/custom_case.png)      |     ![](Images/assembly.jpg)     |
+
 
 ## Repository Structure
 
