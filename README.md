@@ -1,4 +1,4 @@
-# SDP Robotic Arm
+# Face-Tracking Robotic Arm
 
 ## Overview
 
