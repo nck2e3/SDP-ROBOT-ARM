@@ -6,13 +6,13 @@ This repository documents a Senior Design Project (SDP) centered around a roboti
 
 > ⚠️ Note: The mechanical CAD files—except for our custom-modeled housing—are sourced directly from the original forked repository, community_robot_arm, and remain unmodified. All hardware and firmware in this repository are original to this project.
 
+| Schematic                        | PCB Photo                        |
+|----------------------------------|----------------------------------|
+| ![](Images/schematic.svg)        | ![](Images/pcb_photo.jpg)        |
 
-![Diagram](Images/schematic.svg)
-![Diagram](Images/pcb_photo.jpg)
 | Custom Housing                   | Entire Assembly                  |
 |----------------------------------|----------------------------------|
-| ![](Images/custom_case.png)      |     ![](Images/assembly.jpg)     |
-
+| ![](Images/custom_case.png)      | ![](Images/assembly.jpg)         |
 
 ## Repository Structure
 
