@@ -8,7 +8,7 @@ This repository documents a Senior Design Project (SDP) centered around a roboti
 
 
 ![Diagram](Images/schematic.svg)
-![Diagram](Images/pcb_photo.png)
+![Diagram](Images/pcb_photo.jpg)
 | Custom Housing                   | Entire Assembly                  |
 |----------------------------------|----------------------------------|
 | ![](Images/custom_case.png)      |     ![](Images/assembly.jpg)     |
